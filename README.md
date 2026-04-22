@@ -47,3 +47,5 @@
 
 ---
 <p align="center">⭐ <i>Every expert was once a beginner. Watch my journey.</i> ⭐</p>
+## Certifications
+- [Elements of AI](https://certificates.mooc.fi/validate/u8rpxakskh) — University of Helsinki & Reaktor (2026)
