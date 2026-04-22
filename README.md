@@ -28,6 +28,15 @@
 
 <br/>
 
+<h3 align="left">🏅 Certifications:</h3>
+<p align="left">
+  <a href="https://certificates.mooc.fi/validate/u8rpxakskh" target="_blank">
+    <img src="https://img.shields.io/badge/Elements%20of%20AI-University%20of%20Helsinki-blue?style=for-the-badge&logo=academia&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=faizan-amir&show_icons=true&theme=tokyonight" alt="faizan-amir" />
@@ -47,5 +56,3 @@
 
 ---
 <p align="center">⭐ <i>Every expert was once a beginner. Watch my journey.</i> ⭐</p>
-## Certifications
-- [Elements of AI](https://certificates.mooc.fi/validate/u8rpxakskh) — University of Helsinki & Reaktor (2026)
